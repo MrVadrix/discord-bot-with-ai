@@ -159,4 +159,4 @@ async def new_command(ctx):
 #  ---  #
 
 #TOKEN
-bot.run("MTIzMzA3NjM0NjA0MTkyOTg3MA.GsA1am.j0SDQ13-JE1D7RF8QOsLdxsDknyzU-xCxtpXlI")
+bot.run(TOKEN)
